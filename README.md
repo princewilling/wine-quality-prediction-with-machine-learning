@@ -1,0 +1,2 @@
+# wine-quality-prediction-with-machine-learning
+The aim of this project is to build a machine leraning model that can predict the quality of wine. Wine quality refers to the factors that go into producing a wine, as well as the indicators or characteristics that tell you if the wine is of high quality. Your appreciation for wines will deepen once you're familiar with wine quality levels and how wines vary in taste from region to region. 
